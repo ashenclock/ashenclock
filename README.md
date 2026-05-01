@@ -10,6 +10,12 @@ I am currently an M.Sc. thesis researcher at the Speech and Audio Processing Lab
 - Self-supervised and transformer-based audio/language models
 - End-to-end ML pipelines and reproducibility-driven research
 
+## About me ✨
+
+- 🧠 AI for health and speech technologies
+- 🎙️ Speech processing + NLP + multimodal learning
+- 🧪 Research mindset, engineering execution
+
 ## Featured Projects
 
 | Project | Description |
