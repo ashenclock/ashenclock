@@ -34,4 +34,3 @@ I am currently an M.Sc. thesis researcher at the Speech and Audio Processing Lab
 - Portfolio: [ashenclock.github.io](https://ashenclock.github.io)
 - LinkedIn: [linkedin.com/in/antoniospedito](https://www.linkedin.com/in/antoniospedito/)
 - GitHub: [github.com/ashenclock](https://github.com/ashenclock)
-- Email: ``
