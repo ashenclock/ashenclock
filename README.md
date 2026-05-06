@@ -2,7 +2,7 @@
 
 AI and Software Engineer focused on speech processing, NLP, and applied machine learning.
 
-I am currently an M.Sc. thesis researcher at the Speech and Audio Processing Lab (University of Palermo), working on pathological speech analysis and transformer-based clinical pipelines.
+I am currently an IT Engineering Intern at SWISS (Lufthansa Group), integrating "LLM-as-a-Judge" evaluation frameworks and Azure MCP for enterprise workflows. Concurrently, I am an M.Sc. thesis researcher at the Speech and Audio Processing Lab (University of Palermo), working on pathological speech analysis and transformer-based clinical pipelines.
 
 ## Focus Areas
 
