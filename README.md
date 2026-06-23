@@ -20,6 +20,8 @@ I am currently an IT Engineering Intern at SWISS (Lufthansa Group), integrating 
 
 | Project | Description |
 | --- | --- |
+| [aetheris](https://github.com/ashenclock/aetheris) | Modular Auto-Agent CLI powered by LiteLLM — autonomous code writing, shell execution, and SQLite memory. |
+| [airline-revenue-management-lab](https://github.com/ashenclock/airline-revenue-management-lab) | Production-quality ML pipeline for airline fare prediction achieving R² 0.9983 (XGBoost SOTA). |
 | [pappagari2021-interspeech-replication](https://github.com/ashenclock/pappagari2021-interspeech-replication) | Re-implementation and enhancement of a multimodal Alzheimer's detection framework (87.32% accuracy). |
 | [ROBOEXHIBIT](https://github.com/ashenclock/ROBOEXHIBIT) | Neuro-symbolic AI museum guide combining LLM reasoning with ontology-grounded SPARQL retrieval. |
 | [WhisperYT](https://github.com/ashenclock/WhisperYT) | Lightweight tool for converting YouTube audio to text with Whisper. |
