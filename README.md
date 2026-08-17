@@ -1,35 +1,48 @@
 # Antonio Spedito
 
-AI and Software Engineer focused on speech processing, NLP, and applied machine learning.
+AI and software engineer focused on speech processing, NLP, applied machine learning, and reliable AI systems.
 
-I am currently an IT Engineering Intern at SWISS (Lufthansa Group), integrating "LLM-as-a-Judge" evaluation frameworks and Azure MCP for enterprise workflows. Concurrently, I am an M.Sc. thesis researcher at the Speech and Audio Processing Lab (University of Palermo), working on pathological speech analysis and transformer-based clinical pipelines.
+I am an IT Engineering Intern at SWISS (Lufthansa Group), where I work on LLM evaluation, release validation, and AI-enabled engineering workflows. I am also completing an M.Sc. thesis at the Speech and Audio Processing Lab (University of Palermo), focused on pathological speech analysis and transformer-based clinical pipelines.
 
-## Focus Areas
+## Focus areas
 
-- Pathological speech processing (Alzheimer's and depression assessment)
-- Self-supervised and transformer-based audio/language models
-- End-to-end ML pipelines and reproducibility-driven research
+- Applied AI and evaluation: measurable, testable, and safer LLM workflows
+- Speech and language technology: pathological speech, ASR, NLP, and multimodal learning
+- Machine-learning engineering: reproducible experiments, data pipelines, benchmarking, and model evaluation
+- Software engineering: Python backends, APIs, automation, testing, and maintainable tooling
 
-## About me ✨
+## Selected projects, ranked
 
-- 🧠 AI for health and speech technologies
-- 🎙️ Speech processing + NLP + multimodal learning
-- 🧪 Research mindset, engineering execution
+This ranking emphasizes engineering depth, reproducibility, and relevance to AI/software roles. It is a portfolio signal, not a claim about production scale.
 
-## Featured Projects
+### 1. AI engineering and systems
 
-| Project | Description |
-| --- | --- |
-| [aetheris](https://github.com/ashenclock/aetheris) | Modular Auto-Agent CLI powered by LiteLLM — autonomous code writing, shell execution, and SQLite memory. |
-| [airline-revenue-management-lab](https://github.com/ashenclock/airline-revenue-management-lab) | Production-quality ML pipeline for airline fare prediction achieving R² 0.9983 (XGBoost SOTA). |
-| [pappagari2021-interspeech-replication](https://github.com/ashenclock/pappagari2021-interspeech-replication) | Re-implementation and enhancement of a multimodal Alzheimer's detection framework (87.32% accuracy). |
-| [ROBOEXHIBIT](https://github.com/ashenclock/ROBOEXHIBIT) | Neuro-symbolic AI museum guide combining LLM reasoning with ontology-grounded SPARQL retrieval. |
-| [WhisperYT](https://github.com/ashenclock/WhisperYT) | Lightweight tool for converting YouTube audio to text with Whisper. |
-| [Submarine-Project-2023-Control-System](https://github.com/ashenclock/Submarine-Project-2023-Control-System) | Control-system design and simulation for submarine stabilization in Simulink. |
+| Rank | Project | What it demonstrates |
+| --- | --- | --- |
+| 1 | [aetheris](https://github.com/ashenclock/aetheris) | A local-first Auto-Agent CLI with LiteLLM, a ReAct loop, skills, SQLite memory, multi-session workflows, and a terminal UI. |
+| 2 | [airline-revenue-management-lab](https://github.com/ashenclock/airline-revenue-management-lab) | An end-to-end airline fare-prediction lab covering data preparation, leakage checks, model comparison, explainability, and revenue simulation. |
+| 3 | [pappagari2021-interspeech-replication](https://github.com/ashenclock/pappagari2021-interspeech-replication) | A reproducible multimodal speech-and-text pipeline for Alzheimer's assessment, combining transformer embeddings, acoustic representations, and late fusion. |
+| 4 | [ROBOEXHIBIT](https://github.com/ashenclock/ROBOEXHIBIT) | A collaborative museum-guide prototype integrating Unity, ontology-grounded SPARQL retrieval, and LLM-based interaction. |
 
-## Tech Stack
+### 2. Supporting technical projects
 
-`Python` `PyTorch` `Transformers` `Whisper` `Wav2Vec 2.0` `HuggingFace` `XGBoost` `Java` `Spring Boot` `Kotlin` `Unity` `Docker`
+| Rank | Project | What it demonstrates |
+| --- | --- | --- |
+| 5 | [HemoClass](https://github.com/ashenclock/HemoClass) | Computer-vision experimentation for blood-cell image classification, including image preprocessing and numerical-method comparisons. |
+| 6 | [WhisperYT](https://github.com/ashenclock/WhisperYT) | A practical speech utility that converts YouTube or local audio into timestamped text with Whisper and `yt-dlp`. |
+| 7 | [Submarine control system](https://github.com/ashenclock/Submarine-Project-2023-Control-System) | Dynamic-system modelling and simulation for submarine stabilization in Simulink. |
+
+Additional computer-vision coursework is being cleaned, tested, and benchmarked in private repositories before publication.
+
+## About me
+
+- AI for health and speech technologies
+- Speech processing, NLP, and multimodal learning
+- Research discipline with an engineering delivery mindset
+
+## Tech stack
+
+`Python` `PyTorch` `Transformers` `Whisper` `Wav2Vec 2.0` `Hugging Face` `XGBoost` `Java` `Spring Boot` `Kotlin` `Unity` `Docker`
 
 ## Links
 
